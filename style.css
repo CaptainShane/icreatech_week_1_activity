@@ -1,0 +1,20 @@
+body{
+    background-color: lightblue;
+    font-family: sans-serif;
+}
+
+.signup-box{
+    width:360px;
+    height: 620px;
+    margin: auto;
+    background-color: dark black;
+
+}
+form {
+    width:300px;
+    margin-left:20px;
+}
+
+form label{
+    display: flex;
+}
